@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning TypeScript and jQuery
 
-- 👨‍💻  See my portfolio at [luciaduarte.netlify.app](luciaduarte.netlify.app)
+- 👨‍💻  See my portfolio at [luciaduarte.netlify.app](https://luciaduarte.netlify.app)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
