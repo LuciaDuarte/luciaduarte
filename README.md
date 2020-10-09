@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 😄  Pronouns: She/Her
 
-- 🌱 I’m currently learning TypeScript and jQuery
+- 🌱 I’m currently learning TypeScript and Vue
 
 - 👨‍💻  See my portfolio at [luciaduarte.netlify.app](https://luciaduarte.netlify.app)
 
